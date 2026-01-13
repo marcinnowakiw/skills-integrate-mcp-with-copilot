@@ -1,0 +1,13 @@
+{
+  "categories": {
+    "Chess Club": "Games",
+    "Programming Class": "Academic",
+    "Gym Class": "Sports",
+    "Soccer Team": "Sports",
+    "Basketball Team": "Sports",
+    "Art Club": "Arts",
+    "Drama Club": "Arts",
+    "Math Club": "Academic",
+    "Debate Team": "Academic"
+  }
+}
